@@ -1,0 +1,11 @@
+body{
+  /* background-color: rgb(172, 155, 177) !important; */
+  background-image: url('https://c4.wallpaperflare.com/wallpaper/80/213/299/dark-purple-background-photoshop-matte-paint-flowers-hd-wallpaper-preview.jpg');
+
+}
+
+.employee-img{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
